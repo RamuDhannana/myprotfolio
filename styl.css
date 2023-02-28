@@ -1,0 +1,53 @@
+.bgs{
+    height: 430px;
+    background-color:rgba(37, 74, 197, 0.562);
+    margin-top: -25px;
+    margin-left: -20px;
+}
+.title
+{
+    margin-left: 30px;
+    font-size: 20px;
+    color:white;
+}
+a{
+    width:70px;
+    height:40px;
+    text-decoration: none;
+    font-size: 25px;
+    margin-left: 140px;
+    color:white;
+}
+.menu{
+    margin-left: 350px;
+    margin-top:-50px;
+}
+a:hover{
+    background-color: white;
+    color:orange;
+    border-radius: 7px;
+}
+img{
+    width:400px;
+    height: 400px;
+}
+.mid{
+    width: 900px;
+    height: 500px;
+    background-color: white;
+    border-radius: 7px;
+    border:solid 0.5px black;
+    margin-left: 230px;
+    margin-top: 50px;
+}
+.im{
+    margin-left: 40px;
+    margin-top: 30px;
+}
+.qoute
+{
+    margin-left: 550px;
+    margin-top: -390px;
+    font-size: 30px;
+    font-family:fantasy;
+}
